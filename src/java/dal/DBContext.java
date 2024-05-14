@@ -17,8 +17,11 @@ import java.util.logging.Logger;
 public class DBContext {
 
     public Connection connection;
+<<<<<<< HEAD
     
     public String DBName = "testregister";
+=======
+>>>>>>> 7d69e8d1e234c758937082b3fa85349451209c2d
 
     public DBContext() {
         //@Students: You are allowed to edit user, pass, url variables to fit 
